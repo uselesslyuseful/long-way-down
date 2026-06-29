@@ -37,7 +37,15 @@ submission for onekey! Uses only the enter key to play.
     
     More interactions will be added soon.
 
-- **Asset Credits**
+## Asset Credits
+
+- **Zombies**: https://thelazystone.itch.io/post-apocalypse-pixel-art-asset-pack
+
+- **Elevator**: https://pixel-assembly.itch.io/animated-elevator
+
+- **Everything else**: https://limezu.itch.io/moderninteriors 
+
+
 
 ## Support
 
